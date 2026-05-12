@@ -1,6 +1,12 @@
 :root {
   --title-color: #d97d83;
 }
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #d7ccc8;
+}
 * {
   font-family: "Noto Serif KR", serif, -apple-system, BlinkMacSystemFont,
     "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,

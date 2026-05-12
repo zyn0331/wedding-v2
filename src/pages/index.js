@@ -25,6 +25,9 @@ const Wrapper = styled.div`
   background: #efebe9;
   background-image: url(${GroovePaper});
   width: 100%;
+  max-width: 480px;
+  margin: 0 auto;
+  box-shadow: 0 0 24px rgba(0, 0, 0, 0.1);
 `;
 
 const IndexPage = () => {

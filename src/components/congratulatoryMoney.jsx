@@ -124,7 +124,7 @@ const CongratulatoryMoney = () => {
         ]}
       >
         <div>
-          <b>부 : {GROOM_FATHER_NAME}</b>
+          <b>혼주 {GROOM_FATHER_NAME}</b>
           <Divider type="vertical" />
           <CopyToClipboard text={GROOM_FATHER_ACCOUNT_NUMBER}>
             <Button
@@ -137,7 +137,7 @@ const CongratulatoryMoney = () => {
           </CopyToClipboard>
         </div>
         <div style={{ marginTop: 24, marginBottom: 24 }}>
-          <b>모 : {GROOM_MOTHER_NAME}</b>
+          <b>혼주 {GROOM_MOTHER_NAME}</b>
           <Divider type="vertical" />
           <CopyToClipboard text={GROOM_MOTHER_ACCOUNT_NUMBER}>
             <Button
