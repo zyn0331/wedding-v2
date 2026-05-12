@@ -4,7 +4,7 @@ export const KAKAOTALK_API_TOKEN = "039d843811cc939f6851e159aa052676";
 export const KAKAOTALK_SHARE_IMAGE = "https://zyn0331.github.io/thumbnail.jpg";
 
 export const WEDDING_DATE = "2026년 8월 8일, 토요일 오후 5시";
-export const WEDDING_LOCATION = "양재 엘블레스, 스포타임 건물 지하 1층";
+export const WEDDING_LOCATION = "양재 엘블레스";
 
 export const GROOM_NAME = "윤형덕";
 export const GROOM_ACCOUNT_NUMBER = "하나은행 15591036965207";
