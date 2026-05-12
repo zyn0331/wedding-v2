@@ -21,7 +21,7 @@ const Content = styled.span`
   text-align: center;
   color: var(--title-color);
   line-height: 2.25rem;
-  opacity: 0.75;
+  opacity: 0.9;
   background-image: url(${QuotePaper});
   background-repeat: no-repeat;
   background-position: center;

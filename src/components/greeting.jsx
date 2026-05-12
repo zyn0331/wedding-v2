@@ -27,18 +27,18 @@ const Title = styled.p`
 `;
 
 const Content = styled.p`
-  font-size: 0.72rem;
-  line-height: 1.75;
-  opacity: 0.75;
+  font-size: 0.78rem;
+  line-height: 1.85;
+  opacity: 0.92;
   margin-bottom: 16px;
   width: 100%;
   text-align: center;
 `;
 
 const GroomBride = styled.p`
-  font-size: 0.875rem;
-  line-height: 1.75;
-  opacity: 0.85;
+  font-size: 0.9rem;
+  line-height: 1.85;
+  opacity: 0.95;
   margin-bottom: 0px;
   width: 100%;
   text-align: center;

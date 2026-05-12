@@ -57,7 +57,7 @@ const Who = styled.div`
 `;
 
 const Relation = styled.span`
-  color: #9a8f88;
+  color: #7a6e65;
   margin-right: 8px;
   font-size: 0.85rem;
 `;
@@ -67,8 +67,8 @@ const Name = styled.span`
 `;
 
 const Bank = styled.div`
-  font-size: 0.82rem;
-  color: #6b6360;
+  font-size: 0.85rem;
+  color: #4f4843;
 `;
 
 const CopyBtn = styled.button`

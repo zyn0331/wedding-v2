@@ -14,7 +14,7 @@ const Title = styled.span`
   font-size: 1rem;
   color: var(--title-color);
   font-weight: bold;
-  opacity: 0.85;
+  opacity: 0.95;
   margin-bottom: 0;
 `;
 
@@ -33,9 +33,9 @@ const MapImage = styled.img`
 `;
 
 const Content = styled.p`
-  font-size: 0.875rem;
-  line-height: 1.75;
-  opacity: 0.75;
+  font-size: 0.9rem;
+  line-height: 1.85;
+  opacity: 0.92;
   width: 100%;
   text-align: center;
   padding-top: 42px;

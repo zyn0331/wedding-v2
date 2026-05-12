@@ -34,20 +34,20 @@ const HeroImage = styled.img`
 
 const WeddingInvitation = styled.p`
   font-size: 0.825rem;
-  opacity: 0.45;
+  opacity: 0.6;
   margin-bottom: 16px;
 `;
 
 const GroomBride = styled.p`
   font-size: 1.5rem;
   font-weight: bold;
-  opacity: 0.9;
+  opacity: 1;
   margin-bottom: 16px;
 `;
 
 const Schedule = styled.p`
   font-size: 1.06rem;
-  opacity: 0.65;
+  opacity: 0.85;
   margin-bottom: 24px;
 `;
 const Title = () => {
