@@ -83,9 +83,9 @@ const CopyBtn = styled.button`
 `;
 
 const groomAccounts = [
-  { relation: "신랑", name: GROOM_NAME, info: GROOM_ACCOUNT_NUMBER },
   { relation: "혼주", name: GROOM_FATHER_NAME, info: GROOM_FATHER_ACCOUNT_NUMBER },
   { relation: "혼주", name: GROOM_MOTHER_NAME, info: GROOM_MOTHER_ACCOUNT_NUMBER },
+  { relation: "신랑", name: GROOM_NAME, info: GROOM_ACCOUNT_NUMBER },
 ];
 
 const brideAccounts = [
