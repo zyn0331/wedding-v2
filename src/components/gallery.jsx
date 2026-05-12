@@ -3,26 +3,26 @@ import ImageGallery from "react-image-gallery";
 import { Divider } from "antd";
 import styled from "styled-components";
 
-import P1 from "../assets/Gallery_Photo_1.jpg";
-import P2 from "../assets/Gallery_Photo_2.jpg";
-import P3 from "../assets/Gallery_Photo_3.jpg";
-import P4 from "../assets/Gallery_Photo_4.jpg";
-import P5 from "../assets/Gallery_Photo_5.jpg";
-import P6 from "../assets/Gallery_Photo_6.jpg";
-import P7 from "../assets/Gallery_Photo_7.jpg";
-import P8 from "../assets/Gallery_Photo_8.jpg";
-import P9 from "../assets/Gallery_Photo_9.jpg";
-import P10 from "../assets/Gallery_Photo_10.jpg";
-import P11 from "../assets/Gallery_Photo_11.jpg";
-import P12 from "../assets/Gallery_Photo_12.jpg";
-import P13 from "../assets/Gallery_Photo_13.jpg";
-import P14 from "../assets/Gallery_Photo_14.jpg";
-import P15 from "../assets/Gallery_Photo_15.jpg";
-import P16 from "../assets/Gallery_Photo_16.jpg";
-import P17 from "../assets/Gallery_Photo_17.jpg";
-import P18 from "../assets/Gallery_Photo_18.jpg";
-import P19 from "../assets/Gallery_Photo_19.jpg";
-import P20 from "../assets/Gallery_Photo_20.jpg";
+import G01 from "../assets/g01.jpg";
+import G02 from "../assets/g02.jpg";
+import G03 from "../assets/g03.jpg";
+import G04 from "../assets/g04.jpg";
+import G05 from "../assets/g05.jpg";
+import G06 from "../assets/g06.jpg";
+import G07 from "../assets/g07.jpg";
+import G08 from "../assets/g08.jpg";
+import G09 from "../assets/g09.jpg";
+import G10 from "../assets/g10.jpg";
+import G11 from "../assets/g11.jpg";
+import G12 from "../assets/g12.jpg";
+import G13 from "../assets/g13.jpg";
+import G14 from "../assets/g14.jpg";
+import G15 from "../assets/g15.jpg";
+import G16 from "../assets/g16.jpg";
+import G17 from "../assets/g17.jpg";
+import G18 from "../assets/g18.jpg";
+import G19 from "../assets/g19.jpg";
+import G20 from "../assets/g20.jpg";
 
 const Wrapper = styled.div`
   padding-top: 42px;
@@ -40,8 +40,8 @@ const Title = styled.p`
 `;
 
 const sources = [
-  P1, P2, P3, P4, P5, P6, P7, P8, P9, P10,
-  P11, P12, P13, P14, P15, P16, P17, P18, P19, P20,
+  G01, G02, G03, G04, G05, G06, G07, G08, G09, G10,
+  G11, G12, G13, G14, G15, G16, G17, G18, G19, G20,
 ];
 
 const images = sources.map((src) => ({ original: src, thumbnail: src }));
