@@ -1,0 +1,8 @@
+[build]
+  command = "gatsby build"
+  publish = "public"
+
+[build.environment]
+  # Gatsby 4(2022)는 옛 네이티브 모듈 때문에 Node 18에서 빌드해야 안전함
+  NODE_VERSION = "18"
+  NPM_FLAGS = "--legacy-peer-deps"
